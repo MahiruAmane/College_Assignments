@@ -1,4 +1,4 @@
-# A Brief Overview About My College Assignments
+# A Brief Overview About My College Assignments (Completed)
 
 This Repository Is a Personal Archive Of My Journey Through College - Featuring Assignments, Coding Exercises, & Hands On Projects (From Foundational Programming Problems To Fully Fledged Mini Projects).
 
@@ -7,5 +7,11 @@ This Repository Is a Personal Archive Of My Journey Through College - Featuring 
 *   🧠 **Language** — **C**
 *   ⚙️ **Compiler** — **GCC**
 *   ✍️ **Editor** — **Visual Studio Code**
+
+---
+
+## 📈 Status
+
+- ✅ **Project Completed** — This Project Is Now Complete And No Further Updates Or Contributions Are Planned.
 
 ---
