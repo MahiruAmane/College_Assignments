@@ -4,7 +4,7 @@ This Repository Is a Personal Archive Of My Journey Through College - Featuring 
 
 ## 💻 Languages & Tools
 
-*   🧠 **Languages** — **C** & **Shell Scripting (Bash)**
+*   🧠 **Languages** — **C** | **Python** | **Shell Scripting (Bash)**
 *   ⚙️ **Compiler** — **GCC**
 *   ✍️ **Editor** — **Visual Studio Code**
 
